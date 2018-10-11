@@ -7,15 +7,6 @@
 - [Feedback](feedback.md)
 
 
-- **Examples**
-- [List protection job start times](samples/list-protectionJob-start-times.md)
-- [Add vms to a protection job](samples/add-vms-protection-job.md)
-- [Start an on-demand backup](samples/on-demand-backup.md)
-- [Upgrade physical agents](samples/upgrade-physical-agents.md)
-- [List most recent unresolved alerts](samples/list-unresolved-alerts.md)
-- [VMware protection example workflow](samples/vmware-vm-lifecycle.md)
-
-
 - **Python**
 - [Intro to Python](samples/intro.md)
 - [Setup your environment](samples/setup.md)
@@ -24,6 +15,15 @@
 - **Ansible**
 - [Ansible Introduction](samples/intro.md)
 - [How to setup your environment](samples/setup.md)
+
+
+- **Examples**
+- [List protection job start times](samples/list-protectionJob-start-times.md)
+- [Add vms to a protection job](samples/add-vms-protection-job.md)
+- [Start an on-demand backup](samples/on-demand-backup.md)
+- [Upgrade physical agents](samples/upgrade-physical-agents.md)
+- [List most recent unresolved alerts](samples/list-unresolved-alerts.md)
+- [VMware protection example workflow](samples/vmware-vm-lifecycle.md)
 
 
 - **Authentication**
