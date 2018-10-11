@@ -38,7 +38,7 @@
     window.$docsify = {
       name: 'Cohesity PowerShell Module',
       repo: 'https://github.com/cohesity/cohesity-powershell-module/',
-      themeColor: '#1e90ff',
+      themeColor: '#658D1B',
       homepage: 'overview.md',
       coverpage: 'coverpage.md',
       loadSidebar: 'sidebar.md',
