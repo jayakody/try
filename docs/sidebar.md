@@ -6,11 +6,11 @@
 - [FAQ](faq.md)
 - [Feedback](feedback.md)
 
-- ** Python **
+- **Python**
 - [Intro to Python Programming](python.md)
 - [Python Basics](pythonbasics.md)
 
-- ** Ansible **
+- **Ansible**
 - [Getting Started with Ansible](ansible.md)
 - [How to Setup](setup.md)
 
