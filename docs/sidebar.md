@@ -16,6 +16,16 @@
 - [VMware protection example workflow](samples/vmware-vm-lifecycle.md)
 
 
+- **Python**
+- [Intro to Python](samples/intro.md)
+- [Setup your environment](samples/setup.md)
+
+
+- **Ansible**
+- [Ansible Introduction](samples/intro.md)
+- [How to setup your environment](samples/setup.md)
+
+
 - **Authentication**
 - [Connect-CohesityCluster](cmdlets-reference/connect-cohesitycluster.md)
 - [Disconnect-CohesityCluster](cmdlets-reference/disconnect-cohesitycluster.md)
