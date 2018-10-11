@@ -6,13 +6,16 @@
 - [FAQ](faq.md)
 - [Feedback](feedback.md)
 
+
 - **Python**
 - [Intro to Python Programming](python.md)
 - [Python Basics](pythonbasics.md)
 
+
 - **Ansible**
 - [Getting Started with Ansible](ansible.md)
 - [How to Setup](setup.md)
+
 
 - **Examples**
 - [List protection job start times](samples/list-protectionJob-start-times.md)
