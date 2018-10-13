@@ -1,25 +1,20 @@
 <!--
-  Title: Cohesity PowerShell Module
-  Description: This project provides a PowerShell Module for interacting with the Cohesity DataPlatform
-  Author: Cohesity Inc
+  Title: Big Switch Automation Examples
+  Description: Automation repository for Big Switch Products
+  Author: <temp>
   -->
-# Cohesity PowerShell Module
+# BigSwitch Automation Repository
 
-![](docs/assets/images/cohesity_powershell.png)
+![](docs/assets/images/bigswitch.png)
 
 ## Overview
-[![License: Apache2](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)](https://github.com/cohesity/cohesity-powershell-module/blob/master/LICENSE)
+[![License: Apache2](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)](https://github.com/bigswitch/sample-scripts)
 
-This project provides a PowerShell Module for interacting with the [Cohesity DataPlatform](https://www.cohesity.com/products/data-platform). It includes cmdlets useful for automating common tasks and orchestrating workflows in your environment. This PowerShell module can be used on Windows, Linux and Mac OS.
+This site gives users a comprehensive examples on how to code with Big Switch products. Feel free to give a try at [labs.bigswitch.com](https://labs.bigswitch.com). You can bring your own virtual Big Cloud Fabric or Big Monitoring Fabric up. 
 
-## Documentation
+## Comments and Feedback
 
-* [Online reference for Cohesity PowerShell Cmdlets](https://cohesity.github.io/cohesity-powershell-module).
-* You can also use `Get-Help <cmdlet>` for offline help.
-
-## Suggestions and Feedback
-
-We would love to hear from you. Please send your suggestions and feedback to: [cohesity-api-sdks@cohesity.com](mailto:cohesity-api-sdks@cohesity.com)
+Feel free to send your comments and feedback to: [labs@bigswitch.com](mailto:labs@bigswitch.com)
 
 ## License
 
