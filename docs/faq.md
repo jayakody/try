@@ -1,18 +1,17 @@
 # Frequently Asked Questions
 
-### Q: How do I avoid specifying credentials in my PowerShell scripts?
-You can export the credentials securely to a file and then import the credentials from that file in your scripts.
-#### Exporting the credentials to a file
-```powershell
-$credential = Get-Credential
-$credential | Export-CliXml -Path 'cred.xml'
+### Q: Which Programming Language Should I start
+It's completely up to you. We've given three very popular options here
+#### Getting Started with Python
+```python
+yum install python
 ```
-#### Importing the credentials from a file
-```powershell
-$credential = Import-CliXml -Path 'cred.xml'
+#### Starting with Ansible
+```ansible
+yum install ansible
 ```
-You can then pass the `$credential` to other cmdlets as below:
-```powershell
-Connect-CohesityCluster -Server $clusterVIP -Credential $credential
+After the installation you can perform a login function to the appropriate big switch controller.
+```shell
+yum install ansible-second-steps
 ```
-> **Note:** `Export-CliXml` is currently broken on non-windows platforms due to this [powershell issue](https://github.com/PowerShell/PowerShell/issues/2059).
+> **Note:** `login_controller.py` Might fail due to authentication issues. You can always spin out a new controller using  [labs.bigswitch.com](https://labs.bigswitch.com).

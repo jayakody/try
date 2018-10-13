@@ -1,11 +1,7 @@
 # Pre-requisites
 
-The pre-requisites for using the Cohesity PowerShell Module are as below:
+There are no pariticular Prerequests. But we assume the following:
 
-* Cohesity Cluster running version `6.0` or higher.
-* On Windows, both [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell) and [PowerShell Core](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-powershell) are supported
-  * [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell) version `5.1` or higher.
-  * [PowerShell Core](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-powershell) version `6.0` or higher.
-* On Linux and MacOS
-  * [PowerShell Core](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-powershell) version `6.0` or higher.
+* You have an access to a big switch controller.
+* You have access to a shell. Use [shell-in-a-box](shell-inabox.com)
 
